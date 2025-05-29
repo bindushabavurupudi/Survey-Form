@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 29vw;
+    background-color: white;
+}
+.sample{
+    margin: 3px 6px;
+}
+.main{
+   border: 14px solid green;
+  width: 28vw;
+  margin: 5vw 36vw;
+  background-color: green;
+  padding-top: 0vw;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+#comments{
+    width: 25vw;
+}
+.sample2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1vw;
+}
+#submit{
+    width: 25vw;
+    background-color: green;
+    border: 0.1vw solid grey;
+}
+.heading{
+    
+    margin-bottom: 1vw;
+}
+#Name{
+    width: 25vw;
+    height: 2vw;
+}
+#Email{
+    width: 25vw;
+    height: 2vw;
+}
+#Age{
+    width: 25vw;
+    height: 2vw;
+}
+#Character{
+    width: 25vw;
+    height: 2vw;
+}
+.radio{
+    margin: 0 0.2vw;
+}
+.check{
+    margin: 0 0.4vw;
+}
